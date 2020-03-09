@@ -62,7 +62,7 @@ public class FactorymethodPattern {
 		Vehicle bike = VehicleFactory.getInstance("bike",2);
 		System.out.println(bike);
 		
-		System.out.println("hello");
+		
 	}
 
 }
