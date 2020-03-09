@@ -23,7 +23,7 @@ public class SingletonDesign {
 		// TODO Auto-generated method stub
 		
 		SingletonPattern instance = SingletonPattern.getInstance();
-		
+		System.out.println("hello");
 		System.out.println("Creational design pattern -> Singleton pattern : " + instance);
 
 	}
